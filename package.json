@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "1st list-content by ballza95",
   "main": "ListContent",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ballza95/list-content-ballza95.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ballza95/list-content-ballza95.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
