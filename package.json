@@ -1,0 +1,11 @@
+{
+  "name": "list-content-ballza95",
+  "version": "1.0.0",
+  "description": "1st list-content by ballza95",
+  "main": "ListContent",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ballza95",
+  "license": "ISC"
+}
